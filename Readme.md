@@ -1,0 +1,1 @@
+RFinder is a Client/Server application which allows to search for files on a remote machine
